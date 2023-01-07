@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class Day10_FileUpload extends TestBase {
+public class ujDay10_FileUpload extends TestBase {
 
     @Test
     public void fileUploadTest() throws InterruptedException {
