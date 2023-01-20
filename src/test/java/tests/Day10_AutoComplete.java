@@ -28,7 +28,6 @@ public class Day10_AutoComplete extends TestBase {
         searchAndSelectFromList("bah","Bahamas");//TEST CASE 3
     }
 
-    private void searchAndSelectFromList(String uni, String united_kingdom) {
-    }
+
 
 }

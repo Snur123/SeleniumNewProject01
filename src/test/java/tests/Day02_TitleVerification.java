@@ -21,7 +21,7 @@
 
 
     public class Day02_TitleVerification {
-    }
+
         public static void main(String[] args) {
             System.setProperty("WebDriver.chrome,drive","src/resources/drivers/chromedriver.exe");
 

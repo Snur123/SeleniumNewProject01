@@ -40,6 +40,5 @@ public class Day10_ScreenshotsOfEntirePage extends TestBase {
         takeScreenshotOfPage();
     }
 
-    private void takeScreenshotOfPage() {
-    }
+
 }
